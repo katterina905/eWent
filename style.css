@@ -1,0 +1,35 @@
+body {
+  margin: 0; }
+  body a {
+    color: #FFFFFF; }
+
+.ewent-logo {
+  width: 200px;
+  height: auto; }
+
+.ewent-new-news-1 {
+  background: pink;
+  height: 200px; }
+
+.ewent-new-news-2 {
+  background: #4186D3;
+  height: 200px;
+  border: 1px solid pink; }
+
+.ewent-container-1 {
+  background: #4186D3;
+  padding: 20px; }
+
+.ewent-new-news-1-content {
+  padding: 20px;
+  padding-top: 50px;
+  text-align: center; }
+
+.ewent-container-2 {
+  background: #4186D3;
+  padding: 20px; }
+
+.ewent-header div {
+  padding: 5px; }
+
+/*# sourceMappingURL=style.css.map */
